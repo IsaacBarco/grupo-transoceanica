@@ -1,2 +1,4 @@
-npm install - Para instalar las dependen
-npm start - Para arrancar el proyecto
+## Comandos para el proyecto
+
+- `npm install`: Para instalar las dependencias.
+- `npm start`: Para arrancar el proyecto.
